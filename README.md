@@ -20,7 +20,7 @@
 ## Installation Instructions
 ```bash
 $ git clone https://github.com/TheCynicalTeam/i3-swallow
-$ cd Swallow
+$ cd i3-swallow
 $ python3 -m pip install -r requirements.txt
 $ sudo make install
 ```
