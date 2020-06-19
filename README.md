@@ -26,4 +26,4 @@ $ sudo make install
 ```
 
 ## License :scroll:
-This Project is licensed under the MIT License. Check license file for more info.
+This Project is licensed under the GPL-3.0 License. Check license file for more info.
