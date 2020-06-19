@@ -19,7 +19,7 @@
 
 ## Installation Instructions
 ```bash
-$ git clone https://github.com/Uniminin/Swallow/
+$ git clone https://github.com/TheCynicalTeam/i3-swallow
 $ cd Swallow
 $ python3 -m pip install -r requirements.txt
 $ sudo make install
