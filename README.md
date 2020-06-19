@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/issues/TheCynicalTeam/i3-swallow?color=violet&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/TheCynicalTeam/i3-swallow?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/TheCynicalTeam/i3-swallow?color=teal&style=for-the-badge">
-  <img src="https://github.com/Uniminin/Swallow/blob/master/Swallow.gif">
+  <img src="https://github.com/TheCynicalTeam/i3-swallow/blob/master/Swallow.gif">
 </p>
 
 ## Requirements
