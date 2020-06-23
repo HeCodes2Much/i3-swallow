@@ -1,7 +1,7 @@
 <h1 align="center">
   Swallow
 </h1>
-<h4 align="center">Used to swallow (send to the scratchpad) a terminal window after a blocking application is run in i3 window manager</h4>
+<h4 align="center">Used to swallow a terminal window after a blocking application is run in i3 window manager</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
