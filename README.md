@@ -18,9 +18,9 @@
 
 ## Installation Instructions
 ```bash
-$ git clone https://github.com/TheCynicalTeam/i3-swallow
-$ cd i3-swallow
-$ cp i3-swallow ~/.local/bin/swallow
+git clone https://github.com/TheCynicalTeam/i3-swallow
+cd i3-swallow
+cp i3-swallow ~/.local/bin/swallow
 ```
 
 ## License :scroll:
