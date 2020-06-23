@@ -14,7 +14,7 @@
 
 ## Requirements
 * Unix system with i3 window manager
-* xdotools
+* xdo
 
 ## Installation Instructions
 ```bash
