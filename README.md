@@ -14,15 +14,13 @@
 
 ## Requirements
 * Unix system with i3 window manager
-* Python3.x+
-* Python3.x+ Pip
+* xdotools
 
 ## Installation Instructions
 ```bash
 $ git clone https://github.com/TheCynicalTeam/i3-swallow
 $ cd i3-swallow
-$ python3 -m pip install -r requirements.txt
-$ sudo make install
+$ cp i3-swallow ~/.local/bin/swallow
 ```
 
 ## License :scroll:
