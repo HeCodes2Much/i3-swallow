@@ -9,12 +9,14 @@
   <img src="https://img.shields.io/github/issues/TheCynicalTeam/i3-swallow?color=violet&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/TheCynicalTeam/i3-swallow?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/TheCynicalTeam/i3-swallow?color=teal&style=for-the-badge">
-  <img src="https://github.com/TheCynicalTeam/i3-swallow/blob/master/Swallow.gif">
+  <img src="https://github.com/TheCynicalTeam/i3-swallow/blob/main/Swallow.gif">
 </p>
+
 
 ## Requirements
 * Unix system with i3 window manager
-* xdo
+* Python3.x+
+* Python3.x+ Pip
 
 ## Installation Instructions
 ```bash
