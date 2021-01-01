@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 ##################################################################################################################
 # Author 	: 	TheCynicalLiger
 # Website	:	https://github.com/TheCynicalLiger/
